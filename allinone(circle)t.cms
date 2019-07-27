@@ -1,0 +1,118 @@
+﻿// enter to the friends space
+LCLICK(860,840)
+WAIT(1)
+//back to the start   !!!
+LCLICK(245,950)
+WAIT(1)
+//Now its 24 circuls
+//=============================================
+// HELP GRIENDS
+
+FOR($a=0,$a<1)
+
+   //select to help 1 circle        
+   LCLICK(300,970)
+   WAIT(1)
+   LCLICK(420,970)
+   WAIT(1)
+   LCLICK(520,970)
+   WAIT(1)
+   LCLICK(620,970)
+   WAIT(1)
+   LCLICK(720,970)
+   WAIT(1)
+   //end the 1 circle
+   //start the second circle
+   LCLICK(910,920)
+   //select to help 2 circle
+
+END_CYC
+//=============================================
+// SUPPORT GRIENDS
+
+//back to the start   !!!
+LCLICK(245,950)
+WAIT(1)
+//Now its 23 circuls
+
+FOR($b=0,$b<1)
+
+   //select to help 1 circle        
+   LCLICK(350,947)
+   WAIT(3)
+   LCLICK(456,947)
+   WAIT(1)
+   LCLICK(456,947)
+
+   WAIT(3)
+   LCLICK(565,947)
+   WAIT(1)
+   LCLICK(565,947)
+
+   WAIT(3)
+   LCLICK(675,947)
+   WAIT(1)
+   LCLICK(675,947)
+
+   WAIT(3)
+   LCLICK(775,947)
+   WAIT(1)
+   LCLICK(775,947)
+   WAIT(3)
+   
+   LCLICK(775,947)
+   WAIT(1)
+   //end the 1 circle
+   //start the second circle
+   LCLICK(910,920)
+   WAIT(1)
+
+END_CYC
+
+//=============================================
+// Enter to gildia space
+LCLICK(800,840)
+WAIT(1)
+//back to the start
+LCLICK(245,920)
+//select to help 1 circle        
+
+FOR($c=0,$c<1)
+   LCLICK(300,970)
+   WAIT(1)
+   LCLICK(420,970)
+   WAIT(1)
+   LCLICK(520,970)
+   WAIT(1)
+   LCLICK(620,970)
+   WAIT(1)
+   LCLICK(720,970)
+   WAIT(1)
+END_CYC
+//end the 1 circle
+
+//=============================================
+
+// Enter to neighbor space
+LCLICK(737,840)
+WAIT(1)
+//back to the start
+LCLICK(245,920)
+FOR($d=0,$d<1)
+   //select to help first circle        
+   LCLICK(300,970)
+   WAIT(1)
+   LCLICK(420,970)
+   WAIT(1)
+   LCLICK(520,970)
+   WAIT(1)
+   LCLICK(620,970)
+   WAIT(1)
+   LCLICK(720,970)
+   WAIT(1)
+END_CYC
+//end the first circle
+//start the second circle
+
+//=============================================
+HALT

@@ -1,0 +1,48 @@
+﻿   //Start programm:
+   // Open Console:
+   //LCLICK(867,966)
+   //WAIT(2)
+//=============================================
+// Enter to gildian space
+LCLICK(800,840)
+WAIT(1)
+//back to the start
+LCLICK(245,920)
+WAIT(1)
+//select to help 1 circle        
+
+FOR($c=0,$c<16)
+   LCLICK(300,970)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(0,5)
+   LCLICK(420,970)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(0,5)
+   LCLICK(520,970)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(0,5)
+   LCLICK(620,970)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(0,5)
+	 LCLICK(720,970)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(0,5)
+   //forward to next circle
+   LCLICK(910,920)
+   WAIT(1)
+END_CYC
+//end the 1 circle
+
+//=============================================
+
+HALT

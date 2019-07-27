@@ -1,0 +1,48 @@
+﻿   //Start programm:
+   // Open Console:
+   //LCLICK(867,966)
+   //WAIT(2)
+//=============================================
+// Enter to friends space
+LCLICK(860,840)
+WAIT(1)
+//back to the start
+LCLICK(245,950)
+WAIT(1)
+//select to help 1 circle        
+
+FOR($c=0,$c<16)
+   LCLICK(350,947)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(1,5)
+   LCLICK(456,947)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(1,5)
+   LCLICK(565,947)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(1,5)
+   LCLICK(675,947)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(1,5)
+	 LCLICK(775,947)
+   WAIT(1)
+      // skip other problem
+      LCLICK(800,120)
+      WAIT(1,5)
+   //forward to next circle
+   LCLICK(910,920)
+   WAIT(1)
+END_CYC
+//end the 1 circle
+
+//=============================================
+
+HALT

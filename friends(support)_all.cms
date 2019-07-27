@@ -1,0 +1,361 @@
+﻿// enter to the friends space
+LCLICK(860,840)
+WAIT(1)
+//back to the start   !!!
+LCLICK(245,950)
+WAIT(1)
+//Now its 23 circuls
+//select to help 1 circle        
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(1)
+LCLICK(456,947)
+
+WAIT(3)
+LCLICK(565,947)
+WAIT(1)
+LCLICK(565,947)
+
+WAIT(3)
+LCLICK(675,947)
+WAIT(1)
+LCLICK(675,947)
+
+WAIT(3)
+LCLICK(775,947)
+WAIT(1)
+LCLICK(775,947)
+WAIT(3)
+//end the 1 circle
+//start the second circle
+LCLICK(910,920)
+WAIT(1)
+//select to help 2 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the 2 circle
+//start the 3 circle
+LCLICK(910,920)
+WAIT(1)
+//select to help 3 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 3 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 4 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 4 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 5 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 5 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 6 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 6 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 7 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 7 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 8 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 8 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 9 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 9 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 10 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 10 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 11 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 11 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 12 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 12 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 13 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 13 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 14 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 14 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 15 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 15 circle
+LCLICK(910,920)
+WAIT(1)
+//select to help 16 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 16 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 17 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 17 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 18 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 18 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 19 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 19 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 20 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 20 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 21 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 21 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 22 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 22 circle
+
+LCLICK(910,920)
+WAIT(1)
+//select to help 23 circle
+LCLICK(350,947)
+WAIT(3)
+LCLICK(456,947)
+WAIT(3)
+LCLICK(565,947)
+WAIT(3)
+LCLICK(675,947)
+WAIT(3)
+LCLICK(775,947)
+WAIT(3)
+//end the help 23 circle
+
+hold

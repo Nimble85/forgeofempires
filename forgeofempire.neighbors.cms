@@ -1,0 +1,46 @@
+﻿// inter to neighbor space
+LCLICK(737,840)
+WAIT(1)
+//select to help first circle
+LCLICK(300,970)
+WAIT(1)
+LCLICK(420,970)
+WAIT(1)
+LCLICK(520,970)
+WAIT(1)
+LCLICK(620,970)
+WAIT(1)
+LCLICK(720,970)
+//end the first circle
+//start the second circle
+LCLICK(910,920)
+//select to help second circle
+LCLICK(300,970)
+WAIT(1)
+LCLICK(420,970)
+WAIT(1)
+LCLICK(520,970)
+WAIT(1)
+LCLICK(620,970)
+WAIT(1)
+LCLICK(720,970)
+//end the second circle
+//start the third circle
+LCLICK(910,920)
+//select to help third circle
+LCLICK(300,970)
+WAIT(1)
+LCLICK(420,970)
+WAIT(1)
+LCLICK(520,970)
+WAIT(1)
+LCLICK(620,970)
+WAIT(1)
+LCLICK(720,970)
+//end the third circle
+
+
+
+
+
+
